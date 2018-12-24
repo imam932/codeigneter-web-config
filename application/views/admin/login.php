@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <title>Login</title>
 
-  <link rel="stylesheet" href="<?= base_url() ?>vendor/admin/font-awesome/css/font-awesome.css">
-  <link rel="stylesheet" href="<?= base_url() ?>vendor/admin/css/login.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/admin/font-awesome/css/font-awesome.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/admin/css/login.css">
 
 
 </head>
@@ -39,6 +39,6 @@
             <button type="submit" class="log-btn" >Log in</button>
         </form>
     </div>
-    <script src="<?= base_url() ?>vendor/admin/js/jquery.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/jquery.js"></script>
 </body>
 </html>

@@ -14,19 +14,19 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
   <!-- Vendor CSS -->
-  <link rel="stylesheet" href="<?= base_url() ?>vendor/admin/css/bootstrap.min.css">
-  <link rel="stylesheet" href="<?= base_url() ?>vendor/admin/font-awesome/css/font-awesome.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/admin/css/bootstrap.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/admin/font-awesome/css/font-awesome.css">
 
-  <link href="<?= base_url() ?>vendor/admin/css/sb-admin.css" rel="stylesheet">
+  <link href="<?= base_url() ?>assets/admin/css/sb-admin.css" rel="stylesheet">
 
-  <link href="<?= base_url() ?>vendor/admin/css/style.css" rel="stylesheet">
-  <link href="<?= base_url() ?>vendor/admin/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="<?= base_url() ?>vendor/admin/css/dataTables.bootstrap.min.css">
-  <link rel="stylesheet" href="<?= base_url( )?>vendor/admin/css/bootstrap-switch.min.css">
-  <link rel="stylesheet" href="<?= base_url( )?>vendor/admin/css/loadimg.min.css">
-  <link rel="stylesheet" href="<?= base_url( )?>vendor/admin/css/jquery.paginate.css">
-  <link rel="stylesheet" href="<?= base_url( )?>vendor/admin/css/chartist.min.css">
-  <link rel="stylesheet" href="<?= base_url( )?>vendor/admin/css/chartist-plugin-tooltip.css">
+  <link href="<?= base_url() ?>assets/admin/css/style.css" rel="stylesheet">
+  <link href="<?= base_url() ?>assets/admin/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/admin/css/dataTables.bootstrap.min.css">
+  <link rel="stylesheet" href="<?= base_url( )?>assets/admin/css/bootstrap-switch.min.css">
+  <link rel="stylesheet" href="<?= base_url( )?>assets/admin/css/loadimg.min.css">
+  <link rel="stylesheet" href="<?= base_url( )?>assets/admin/css/jquery.paginate.css">
+  <link rel="stylesheet" href="<?= base_url( )?>assets/admin/css/chartist.min.css">
+  <link rel="stylesheet" href="<?= base_url( )?>assets/admin/css/chartist-plugin-tooltip.css">
 </head>
 
 <body>
@@ -132,22 +132,22 @@
 
     <!-- Include JS -->
     <!-- Vendor -->
-    <script src="<?= base_url() ?>vendor/admin/js/jquery.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="<?= base_url() ?>vendor/admin/js/bootstrap.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/admin.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/bootstrap-datetimepicker.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/dataTables.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/dataTables.bootstrap.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/bootstrap-switch.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/bootstrap-filestyle.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/list.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/list.pagination.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/chartist.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/chartist-plugin-pointlabels.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/js/chartist-plugin-tooltip.min.js"></script>
-    <script src="<?= base_url() ?>vendor/admin/ckeditor/ckeditor.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/bootstrap.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/admin.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/dataTables.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/dataTables.bootstrap.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/bootstrap-switch.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/bootstrap-filestyle.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/list.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/list.pagination.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/chartist.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/chartist-plugin-pointlabels.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/js/chartist-plugin-tooltip.min.js"></script>
+    <script src="<?= base_url() ?>assets/admin/ckeditor/ckeditor.js"></script>
   </body>
 
   </html>
